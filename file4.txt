@@ -1,1 +1,1 @@
-in file4.txt only one line text is added
+in file4.txt only one line text is added,working on pull and fetch
